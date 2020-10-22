@@ -6,4 +6,4 @@
     
     CS 지식을 정리합니다 :)
 
-    1. [Cloud](./Cloud)
+1. [Cloud](./Cloud)
