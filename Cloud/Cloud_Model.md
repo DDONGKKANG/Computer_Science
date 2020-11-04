@@ -9,8 +9,7 @@
 
 2. Container
 
-## PaaS
-Platform as a Service<br>
+## PaaS - Platform as a Service<br>
 정의 : 기업의 애플리케이션 실행 환경 및 애플리케이션 개발 환경을 서비스로써 제공하는 모델<br>
 - 애플리케이션 개발, 실행, 관리 할 수 있게 하는 플랫폼을 제공
 - SaaS의 개념을 개발 플랫폼에 확장한 방식
