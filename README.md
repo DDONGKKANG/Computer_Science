@@ -4,7 +4,7 @@
 
     💗 Member : JYSim<br>
     
-    CS 지식을 정리합니다 :)
+    강의 내용 및 개인적으로 공부한 CS 지식을 정리합니다 :)
 
 ## 1. [Cloud](./Cloud)
 <details>
