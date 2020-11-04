@@ -23,5 +23,6 @@
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 - [Outline](./Data_Analysis/Outline.md)
+- [Data_Analysis_Process](./Data_Analysis/Data_Analysis_Process.md)
 
 </details>
