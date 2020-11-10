@@ -1,5 +1,5 @@
 # 클라우드 모델
-![](http://Jiyooung.com/Computer_Science/Cloud/Image/CloudModel.png)
+![image](https://github.com/Jiyooung/Computer_Science/blob/main/Cloud/Image/CloudModel.png)
 
 - 아래로 갈수록 유연하고, 위로 갈수록 속도가 높음
 
