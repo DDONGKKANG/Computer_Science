@@ -8,8 +8,7 @@
 - 물리적 리소스를 가상화 하여 유연한 Infrastructure을 제공<br>
 
 ### 가상화 유형
-![image](https://user-images.githubusercontent.com/42690398/98251737-71e3cf80-1fbc-11eb-8f92-db55948fb4c6.png)
-
+![image](https://github.com/Jiyooung/Computer_Science/blob/main/Cloud/Image/Hypervisor_VS_Container.png)
 ### 1. Hypervisor
 - OS 환경을 통째로 가상화 함
 
