@@ -1,8 +1,6 @@
-# 클라우드 모델
-![image](https://github.com/Jiyooung/Computer_Science/blob/main/Cloud/Image/CloudModel.png)
-
-## IaaS - Infrastructure as a Service<br>
+# IaaS - Infrastructure as a Service<br>
 정의 : CPU나 하드웨어 등의 컴퓨팅 리소스(자원)를 네트워크를 통해 서비스로 제공하는 모델<br>
+- 사용자 : IT 전문가
 - 물리적 리소스를 가상화 하여 유연한 Infrastructure을 제공<br>
 
 ### 가상화 유형
