@@ -1,5 +1,6 @@
 # 클라우드 모델
-![image](https://user-images.githubusercontent.com/42690398/98641135-a36aeb00-236e-11eb-9b60-835f7b13792e.png)
+![](http://Jiyooung.com/Computer_Science/Cloud/Image/CloudModel.png)
+
 - 아래로 갈수록 유연하고, 위로 갈수록 속도가 높음
 
 ## IaaS - Infrastructure as a Service<br>
