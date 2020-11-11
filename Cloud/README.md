@@ -5,7 +5,7 @@
 ## [1. 클라우드 개요](Outline.md)
 
 <details>
-    <summary> Detail </summary>
+    <summary> Details </summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 - [클라우드 컴퓨팅이란?](./Outline.md#%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%B4%EB%9E%80)
@@ -17,7 +17,7 @@
 ## [2. 클라우드 모델](Cloud_Model.md)
 
 <details>
-    <summary> Detail </summary>
+    <summary> Details </summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 - [IaaS](https://github.com/Jiyooung/Computer_Science/blob/main/Cloud/Cloud_Model.md#iaas---infrastructure-as-a-service)
