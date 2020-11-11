@@ -1,5 +1,5 @@
 # 자료의 분류
-![image](https://user-images.githubusercontent.com/42690398/98089594-4bdc0380-1ec6-11eb-9297-a2f7a2a7d1e3.png)
+![image](./Image/DataClassification.png)
 
 ## 변수의 개수에 따른 분류
 
