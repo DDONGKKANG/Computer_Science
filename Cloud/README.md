@@ -25,3 +25,14 @@
 - [SaaS](https://github.com/Jiyooung/Computer_Science/blob/main/Cloud/Cloud_Model.md#saas---software-as-a-service)
 
 </details>
+
+## [3. Cloud Native Application](Cloud_Native_Application.md)
+<details>
+    <summary> Details </summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
+- [Native application](https://github.com/Jiyooung/Computer_Science/blob/main/Cloud/Cloud_Native_Application.md#native-application-desk-top)
+- [Web application](https://github.com/Jiyooung/Computer_Science/blob/main/Cloud/Cloud_Native_Application.md#web-application-)
+- [Cloud Native Application](https://github.com/Jiyooung/Computer_Science/blob/main/Cloud/Cloud_Native_Application.md#cloud-native-application)
+
+</details>
