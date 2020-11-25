@@ -48,6 +48,12 @@
 개발 단위를 작게 나눔. 주문 플랫폼 -> 배송, 사용자, 유저 관리등으로 나눔 -> 이들 각각을 또 쪼개는 것… -> 필요한 것을 이 나눈 것들 중에서 가져오는 일이 가능<br>
 ex) 넷플릭스
 
+## PaaS의 동작 원리
+- IaaS 자원 위에 여러 인스턴스들의 유기적인 조합으로 PaaS 동작함
+    - 물리서버에서 Hypervisor로 가상화 > VM 생성 > VM에 garden을 이용해 Container로 가상화 > 앱 실행
+- Application이 실제 배포 시 PaaS의 구성요소 중 Diego cell에서의 모습
+    - 배포 명령 실행 > Diego 컨테이너 생성(garden 아래 생성) > Application 코드 배치 > 적합한 Buildpack 찾기 > 컴파일 진행 > Droplet Archive (Application이 동작할 수 있는 부가 요소를 모두 갖춘 형태, 압축) > Blobstore(컨테이너를 배포할 수 있는 환경)에 저장 > Application Instance가 실행될 새로운 컨테이너 생성 요청 > release 스크립트 실행 > Application 동작
+    
 ## PaaS의 종류<br>
 
 ### 1. 퍼블릭(public)
