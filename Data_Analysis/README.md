@@ -5,21 +5,12 @@
 데이터 분석에 대해 공부하고 기록합니다! (●'◡'●)
 
 ## [1. 데이터 분석 기초](Outline.md)
-<details>
-    <summary> Details </summary>
-
-<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 - [빅데이터](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Outline.md#%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0)
 - [빅데이터 특징](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Outline.md#%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8A%B9%EC%A7%95)
-</details>
 
 ## [2. 데이터 분석 과정](Data_Analysis_Process.md)
 
 ## [3. 자료의 분류](Data_Classification.md)
-<details>
-    <summary> Details </summary>
 
-<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 - [변수의 개수에 따른 분류](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Data_Classification.md#%EB%B3%80%EC%88%98%EC%9D%98-%EA%B0%9C%EC%88%98%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%B6%84%EB%A5%98)
 - [자료의 특성에 따른 분류](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Data_Classification.md#%EC%9E%90%EB%A3%8C%EC%9D%98-%ED%8A%B9%EC%84%B1%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%B6%84%EB%A5%98)
-</details>
