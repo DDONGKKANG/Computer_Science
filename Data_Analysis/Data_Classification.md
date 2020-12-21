@@ -1,5 +1,5 @@
 # 자료의 분류
-![image](./Image/DataClassification.png)
+<p align="center"> <img src="https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Image/DataClassification.png" alt="drawing" width="600"/>
 
 ## 변수의 개수에 따른 분류
 
