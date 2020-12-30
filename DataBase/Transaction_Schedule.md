@@ -50,3 +50,36 @@ Conflict Serializability 검사
   - 충돌이 있는 경우(rw, wr, ww)에 선을 그리며 먼저 데이터에 접근한 트랜잭션 방향에서 시작하여 그 후에 접근한 트랜잭션으로 도착하게 그린다.
 - 사이클이 존재하면 not conflict serializability하다.
 - **사이클이 존재하지 않으면 conflict serializability하다.**
+
+
+## Recoverability
+### Recoverable schedule(회복가능한)이란?
+- 데이터 Q를 먼저 write한 트랜잭션Ti가 동일 데이터 Q를 read하는 트랜잭션Tj보다 먼저 commit되어야 한다.(Tj의 commit전에 Ti가 commit되기만 하면 된다. 아래 ACA는 read하기 전에 라는 조건이, ST는 더 엄격한 조건이 있음)
+- DB는 반드시 수행 중인 스케줄에 대해 회복가능하게 만들어야 함 (Consistency 깨짐 방지)
+
+### Cascading Rollbacks (연쇄 철회)
+- 한 트랜잭션이 fails되면 다른 트랜잭션들도 연속적으로 rollback되는 것을 뜻함
+엄청난 양의 undo를 발생시킨다. > 시스템 과부하, 비용 up
+- 고로 Cascading Rollbacks은 피해야 한다.
+
+### Cascadeless Schedules(=ACA, Avoid Cascading Aborts)
+- 어떤 트랜잭션에 write한 아이템이 있는 경우 다른 트랜잭션이 read 하기 전에 commit한다. (read하기 전에 commit하기만 하면 된다! ST보다 덜 엄격)
+- 트랜잭션은 자기자신 혹은 다른 트랜잭션이 commit한 값만을 읽는다.
+- 모든 cascadeless schedule은 recoverable(회복가능)하다.
+
+### 엄격한 스케줄 (= ST, STrict)
+- 다른 Ti가 read, write하기 전에 Tj에서 abort나 commit 필수
+- Wj[x] < Oi[x] (i != j)이면 ST
+- Oi[x]는 Ri[x] or Wi[x]
+- Aj < Oi[x] or Cj < Oi[x]		(A = abort, C = commit)
+- 차이점 확실히 알아 둘 것 (특히 ACA와 ST의 차이점!)
+- RC(=recoverable Schedules) > ACA > ST
+
+### Concurrency Control 조건 2가지 
+- conflict or view serializable
+- Recoverable and preferably cascadeless
+
+
+
+
+
