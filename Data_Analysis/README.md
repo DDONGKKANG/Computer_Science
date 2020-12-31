@@ -17,3 +17,6 @@
 - [단일변수 범주형 자료의 탐색](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Data_Classification.md#%EB%8B%A8%EC%9D%BC%EB%B3%80%EC%88%98-%EB%B2%94%EC%A3%BC%ED%98%95-%EC%9E%90%EB%A3%8C%EC%9D%98-%ED%83%90%EC%83%89)
 - [단일변수 연속형 자료의 탐색](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Data_Classification.md#%EB%8B%A8%EC%9D%BC%EB%B3%80%EC%88%98-%EC%97%B0%EC%86%8D%ED%98%95-%EC%9E%90%EB%A3%8C%EC%9D%98-%ED%83%90%EC%83%89)
 
+## [4. 데이터 전처리](Data_Preprocessing.md)
+- [결측값](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Data_Preprocessing.md#%EA%B2%B0%EC%B8%A1%EA%B0%92)
+- [특이값](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Data_Preprocessing.md#%ED%8A%B9%EC%9D%B4%EA%B0%92)
