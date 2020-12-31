@@ -4,7 +4,6 @@
 ## treemap
 ```
 treemap(원본, index=c(“배치 기준”), vSize=”타일 크기”   # 원본은 맨 앞에!
-
 ```
 
 ## 버블차트(bubble chart)
