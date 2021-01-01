@@ -33,4 +33,11 @@
 - [k-최근접 이웃 분류 (K-Nearest Neighbor)](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Clustering.md#k-%EC%B5%9C%EA%B7%BC%EC%A0%91-%EC%9D%B4%EC%9B%83-%EB%B6%84%EB%A5%98-k-nearest-neighbor)
 - [k-fold 교차 검증 (K-Fold Cross Validation)](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Clustering.md#k-fold-%EA%B5%90%EC%B0%A8-%EA%B2%80%EC%A6%9D)
 
+## [6. 회귀 분석](Regression_Analysis.md)
+- [단순선형 회귀분석](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Regression_Analysis.md#%EB%8B%A8%EC%88%9C%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D)
+- [다중선형 회귀분석](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Regression_Analysis.md#%EB%8B%A4%EC%A4%91%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D)
+- [로지스틱 회귀 분석](https://github.com/Jiyooung/Computer_Science/blob/main/Data_Analysis/Regression_Analysis.md#%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80-%EB%B6%84%EC%84%9D)
+
+
+
 
