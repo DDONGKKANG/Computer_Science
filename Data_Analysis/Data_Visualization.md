@@ -22,6 +22,6 @@ ggplot(원본, aes(x=x축, y=y축) + geom_bar() )
 - geom_histogram() : 히스토그램
 - geom_porint() : 산점도
 - geom_boxplot() : 박스그래프
-- geom_line() : 선 그래프
+- geom_line() : 선그래프
 
 
