@@ -1,4 +1,4 @@
-# Computer_Science
+# Computer Science
 
 - ***Introduction***
 
@@ -12,7 +12,7 @@
 ## 2. [Cloud](./Cloud/README.md)
 클라우드에 대해 공부하고 기록합니다! (●'◡'●)
 
-## 3. [DataAnalysis](./Data_Analysis/README.md)
+## 3. [Data Analysis](./Data_Analysis/README.md)
 데이터 분석에 대해 공부하고 기록합니다! (●'◡'●)
 
 ## 4. [DataBase](./DataBase/README.md)
